@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f4dd3af5cf5d9f4b83d97a187135c98, type: 3}
+  m_Name: Pet_Leafy
+  m_EditorClassIdentifier: Assembly-CSharp::PetAdventure.Pets.PetDefinition
+  petKey: leafy
+  displayName: Leafy
+  element: 2
+  description: "Tinh linh thi\xEAn nhi\xEAn, b\u1EA3o v\u1EC7 khu r\u1EEBng xanh."
+  icon: {fileID: 21300000, guid: 943c8c4eb9b81da4b85068bd269d41e4, type: 3}
+  overworldSprite: {fileID: 21300000, guid: c1ca10a352258ab49a3451472acbf0ca, type: 3}

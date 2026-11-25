@@ -1,0 +1,32 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.apk
+*.aab
+*.unitypackage
+*.app
+.vs/
+.idea/
+.vscode/
+
+# .NET / backend
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.local.json
